@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "myprojectenv\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "files.autoSave": "afterDelay",
+    "git.ignoreLimitWarning": true
+}
